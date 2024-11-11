@@ -1,6 +1,6 @@
-# Finance Dashboard WebApp
+# FinTrack
 
-**Full-Stack Finance Dashboard** displaying KPIs and real-time financial data, with machine learning-driven revenue forecasts and trend visualizations using interactive charts and regression models.
+A **Full-Stack Finance Dashboard** displaying KPIs and real-time financial data, featuring machine learning-driven revenue forecasts and trend visualizations with interactive charts. It includes Time Series Analysis using a Simple Moving Average (SMA) function on the client side.
 
 ## Tech Stack
 
@@ -18,6 +18,3 @@
 - Node.js
 - Express.js
 - Mongoose
-
-### Machine Learning
-- Regression.js
