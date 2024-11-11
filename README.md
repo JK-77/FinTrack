@@ -18,3 +18,7 @@ A **Full-Stack Finance Dashboard** displaying KPIs and real-time financial data,
 - Node.js
 - Express.js
 - Mongoose
+
+### Note
+The server is currently inactive, so data from MongoDB is not being transferred to the client dashboard. To view the dashboard with real data, please start the server from the VS Code IDE. Currently, the project link will display only the basic dashboard layout without data.
+  
